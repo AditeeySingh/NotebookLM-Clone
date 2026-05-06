@@ -6,6 +6,18 @@ This project was built to demonstrate a complete, end-to-end RAG architecture, a
 
 ---
 
+## 📸 Screenshots
+
+*(Replace these placeholders with actual screenshots of your application)*
+
+![App Screenshot 1 - Upload State](placeholder_image_1.png)
+*Figure 1: The beautiful Neobrutalism UI where users can upload any PDF.*
+
+![App Screenshot 2 - Chat State](placeholder_image_2.png)
+*Figure 2: The RAG-powered chat interface answering grounded questions based strictly on the uploaded document.*
+
+---
+
 ## 🎯 Assignment Requirements Met
 
 ### 1. A Working Application (Web UI)
