@@ -10,10 +10,12 @@ This project was built to demonstrate a complete, end-to-end RAG architecture, a
 
 *(Replace these placeholders with actual screenshots of your application)*
 
-![App Screenshot 1 - Upload State](placeholder_image_1.png)
+<img width="1442" height="856" alt="Screenshot 2026-05-06 at 9 01 20 PM" src="https://github.com/user-attachments/assets/4fd7356a-b8db-4073-8de9-5d1a24f64fee" />
+
 *Figure 1: The beautiful Neobrutalism UI where users can upload any PDF.*
 
-![App Screenshot 2 - Chat State](placeholder_image_2.png)
+<img width="1368" height="852" alt="Screenshot 2026-05-06 at 9 04 01 PM" src="https://github.com/user-attachments/assets/866c326a-afe9-4602-8f91-8787908c6cc9" />
+
 *Figure 2: The RAG-powered chat interface answering grounded questions based strictly on the uploaded document.*
 
 ---
