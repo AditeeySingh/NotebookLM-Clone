@@ -8,8 +8,6 @@ This project was built to demonstrate a complete, end-to-end RAG architecture, a
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your application)*
-
 <img width="1442" height="856" alt="Screenshot 2026-05-06 at 9 01 20 PM" src="https://github.com/user-attachments/assets/4fd7356a-b8db-4073-8de9-5d1a24f64fee" />
 
 *Figure 1: The beautiful Neobrutalism UI where users can upload any PDF.*
